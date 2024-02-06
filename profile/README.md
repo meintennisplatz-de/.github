@@ -1,4 +1,5 @@
 # meintennisplatz.de
+Digitalisiere deinen Tennisplatz für eine schnelle und unkomplizierte Buchung deines Spielerlebnisses.
+https://meintennisplatz.de
 
-[![frontend build and deploy](https://github.com/meintennisplatz-de/frontend/actions/workflows/frontend.yml/badge.svg?branch=main)](https://github.com/meintennisplatz-de/frontend/actions/workflows/frontend.yml)
-[![backend build and deploy](https://github.com/meintennisplatz-de/backend/actions/workflows/backend.yml/badge.svg?branch=main)](https://github.com/meintennisplatz-de/backend/actions/workflows/backend.yml)
+![Landing Page](https://github.com/TexhFex/meintennisplatz.de/assets/60287876/d6d2677b-edf8-4b6e-bb08-ecc3fdc1d4e4)
